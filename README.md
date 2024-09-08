@@ -1,6 +1,6 @@
 # Vehicle Builder
 
-[![Watch the video](Eߣ�B��B��B�B�B��matroskaB��B��S�g)
+[![Watch the video]([![Watch the video]()](https://raw.githubusercontent.com/jelliots2/vehicle-builder/main/walkthrough.mkv))
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
