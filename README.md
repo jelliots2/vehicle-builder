@@ -1,6 +1,6 @@
 # Vehicle Builder
 
-[![Watch the video]([![Watch the video]()](https://raw.githubusercontent.com/jelliots2/vehicle-builder/main/walkthrough.mkv))
+[![Watch the video]([![Watch the video]()]([https://raw.githubusercontent.com/jelliots2/vehicle-builder/main/walkthrough.mkv](https://youtu.be/lKPk8QWtRns)))
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 
